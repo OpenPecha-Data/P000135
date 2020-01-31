@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །ཤེར་ཕྱིན་གྱི་ལུང་ལ་འཇུག་པའི་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-11
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Gateway to the Perfection of Wisdom
+    bo: ཤེར་ཕྱིན་གྱི་ལུང་ལ་འཇུག་པའི་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  collection:
+    en: Pema Karpo Series–  Book 11
+    bo: ཀུན་མཁྱེན་གཞུང་འགྲེལ།–  དེབ། ༡༡
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-PK-11
+  category:
+    en: Prajnaparamita
+    bo: ཤེས་ཕྱིན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-11.epub
+  description:
+    en: ''
+    bo: ''

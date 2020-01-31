@@ -1,0 +1,60 @@
+id: a2cf72f32b3a4d129fee0b5a688aa17f
+annotation_type: tsawa
+revision: '00001'
+annotations:
+- id: 6348384db9f943718311f4eda9cc3291
+  span:
+    start: 1621
+    end: 1733
+- id: 22b2dc84c7924aa995558648bd4ef3d6
+  span:
+    start: 6621
+    end: 6742
+- id: 92822c9e1a164706af57ccc50f45f7bd
+  span:
+    start: 9200
+    end: 9261
+- id: 3d4ed72c72d646abaffc85d42b03b9a4
+  span:
+    start: 14478
+    end: 14541
+- id: a64b2bbc92bb4513a19a2f00d3b7c4a2
+  span:
+    start: 16136
+    end: 16195
+- id: 748c7bd4c76b4073b46dadb62dce91df
+  span:
+    start: 20858
+    end: 20982
+- id: 8a0cb8f0c0d7436aa5f91e7df123cd6c
+  span:
+    start: 20984
+    end: 21106
+- id: 1e85bda174f04094bb8b39752025c265
+  span:
+    start: 34418
+    end: 34558
+- id: 79cef628cbe7412bb2be4b3d85718020
+  span:
+    start: 37132
+    end: 37187
+- id: 046912c2a9b24ece8e26ef6148ec28ed
+  span:
+    start: 45633
+    end: 45785
+- id: 8d3de41e52744813a36f82fb2831696a
+  span:
+    start: 45844
+    end: 45994
+- id: f3c1816b21614bb99bb15ff9a3d86647
+  span:
+    start: 45996
+    end: 46241
+- id: 5bab2761e1b943b59b41c7e38f7899e8
+  span:
+    start: 46243
+    end: 46368
+- id: 61d0bf89b752426faad7b6f0974fb168
+  span:
+    start: 69351
+    end: 69404
