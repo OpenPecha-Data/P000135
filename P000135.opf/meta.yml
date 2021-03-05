@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000135
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཤེར་ཕྱིན་གྱི་ལུང་ལ་འཇུག་པའི་སྒོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-11
   layers:
   - book_title
   - author
   - tsawa
   - quotation
   - sabche
+  id: KS-PK-11
 web_metadata:
   title:
     en: Gateway to the Perfection of Wisdom
