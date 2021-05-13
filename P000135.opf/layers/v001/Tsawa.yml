@@ -2,11 +2,11 @@ id: 7d0f5599fb5d431a8a90026046cf1d66
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-- id: b7ada3fd2ac84e618b90b793c76a16fa
-  span:
-    start: 38132
-    end: 38194
-- id: 7b6a99d1cefd45ec8e7e5a1516ce688d
-  span:
-    start: 48416
-    end: 48466
+  b7ada3fd2ac84e618b90b793c76a16fa:
+    span:
+      start: 38132
+      end: 38194
+  7b6a99d1cefd45ec8e7e5a1516ce688d:
+    span:
+      start: 48416
+      end: 48466
